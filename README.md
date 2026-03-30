@@ -17,3 +17,10 @@ This project aims to predict whether an employee will leave the company using ma
 - Python
 - Pandas
 - Scikit-learn
+
+## Model Performance
+- Algorithm: Random Forest Classifier
+- Accuracy: 85.84%
+
+## Output
+The model predicts whether an employee will Stay or Leave based on input features.
